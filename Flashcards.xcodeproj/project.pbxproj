@@ -99,12 +99,9 @@
 		DD59C95928D17021002F9CC0 /* Flashcards */ = {
 			isa = PBXGroup;
 			children = (
-				DD59C95A28D17021002F9CC0 /* AppDelegate.swift */,
-				DD59C95C28D17021002F9CC0 /* SceneDelegate.swift */,
+				DD59C98A28D17027002F9CC0 /* Misc */,
 				DD59C95E28D17021002F9CC0 /* ViewController.swift */,
 				DD59C96028D17021002F9CC0 /* Main.storyboard */,
-				DD59C96328D17021002F9CC0 /* Assets.xcassets */,
-				DD59C96528D17021002F9CC0 /* LaunchScreen.storyboard */,
 				DD59C96828D17021002F9CC0 /* Info.plist */,
 			);
 			path = Flashcards;
@@ -125,6 +122,17 @@
 				DD59C97D28D17021002F9CC0 /* FlashcardsUITestsLaunchTests.swift */,
 			);
 			path = FlashcardsUITests;
+			sourceTree = "<group>";
+		};
+		DD59C98A28D17027002F9CC0 /* Misc */ = {
+			isa = PBXGroup;
+			children = (
+				DD59C95C28D17021002F9CC0 /* SceneDelegate.swift */,
+				DD59C96328D17021002F9CC0 /* Assets.xcassets */,
+				DD59C96528D17021002F9CC0 /* LaunchScreen.storyboard */,
+				DD59C95A28D17021002F9CC0 /* AppDelegate.swift */,
+			);
+			path = Misc;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

@@ -6,7 +6,8 @@
 Add app description
 
 ### App Walk-though
-Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+![lab1](https://user-images.githubusercontent.com/109322859/190295730-b323d79b-d595-4625-b045-a77f845c9ff6.gif)
+
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 

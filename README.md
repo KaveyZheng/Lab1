@@ -8,9 +8,6 @@ Add app description
 ### App Walk-though
 ![lab1](https://user-images.githubusercontent.com/109322859/190295730-b323d79b-d595-4625-b045-a77f845c9ff6.gif)
 
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
 ## Required
 - [x] Create New Project in Xcode
 - [x] Add a view for the front side of the flashcard to display the question

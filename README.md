@@ -3,7 +3,8 @@
 ## Lab 1
 
 ### App Description
-Add app description
+- Flashcard app swaps between question and answer state after reading user inputted tap on question label using tap gesture recognizer
+- Multiple choice options change color to correspond with states
 
 ### App Walk-though
 ![lab1](https://user-images.githubusercontent.com/109322859/190295730-b323d79b-d595-4625-b045-a77f845c9ff6.gif)

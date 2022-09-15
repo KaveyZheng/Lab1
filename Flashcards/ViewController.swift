@@ -8,7 +8,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-    // Test
     @IBOutlet weak var backLabel: UILabel!
     @IBOutlet weak var frontLabel: UILabel!
     

@@ -7,7 +7,7 @@
 - Multiple choice options change color to correspond with states
 
 ### App Walk-though
-![lab1](https://user-images.githubusercontent.com/109322859/190295730-b323d79b-d595-4625-b045-a77f845c9ff6.gif)
+<img src="https://user-images.githubusercontent.com/109322859/190295730-b323d79b-d595-4625-b045-a77f845c9ff6.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
